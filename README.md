@@ -1,2 +1,6 @@
-# my-first-repo
-This is my first repository . I am learning right now .
+# My First Repository 🚀
+
+Hi, I'm Suryakant 👋  
+I’m learning Git, GitHub, Linux, and automation.
+
+This repository is for practice and learning.
